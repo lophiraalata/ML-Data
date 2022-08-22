@@ -1,42 +1,42 @@
 Y,	X,	Department labels,	Direction,	Source attribute,	Source label
-1011.3489,	-1056.8555,		Workshops->Varies, , ,
-951.5377,	-997.7682,		Workshops->Varies, , ,	
-951.5377,	-997.7682,		Workshops->Business & Career Center, , ,	
-777.2785,	-724.3218,		Workshops->Business & Career Center		
-965.9727,	-1206.3175,		Winnie Sinclait (Brooklyn Fashion Academy)->Business Counseling, , ,
+1011.3489,	-1056.8555,		Workshops->Varies, null, null,
+951.5377,	  -997.7682,		Workshops->Varies, null, null,	
+951.5377,	  -997.7682,		Workshops->Business & Career Center, null, null,	
+777.2785,	  -724.3218,		Workshops->Business & Career Center, null, null,		
+965.9727,	  -1206.3175,		Winnie Sinclait (Brooklyn Fashion Academy)->Business Counseling, , ,
 815.92865,	-1122.1849,		Winnie Sinclait (Brooklyn Fashion Academy)->Business Counseling, , ,		
 -46.102028,	845.25525,		WiFi->Techmobile, , ,		
--273.927,	1234.5723,		WiFi->Techmobile, , ,		
-155.5011,	642.683,		WiFi->Bookmobile, , ,		
+-273.927,	  1234.5723,		WiFi->Techmobile, , ,		
+155.5011,	  642.683,		  WiFi->Bookmobile, , ,		
 -46.102028,	845.25525,		WiFi->Bookmobile, , ,		
--777.5804	-636.7517		Welcome Ambassadors (Central)->Volunteer Services/Resources		
--887.0316	-550.4349		Welcome Ambassadors (Central)->Volunteer Services/Resources		
--724.1888	-677.6622		Welcome Ambassadors (Central)->LaCresha Neal		
--777.5804	-636.7517		Welcome Ambassadors (Central)->LaCresha Neal		
--777.5804	-636.7517		Volunteer Services/Resources->Welcome Ambassadors (Central)		
--887.0316	-550.4349		Volunteer Services/Resources->Welcome Ambassadors (Central)		
--880.305	-723.0069		Volunteer Services/Resources->Special Events		
--887.0316	-550.4349		Volunteer Services/Resources->Special Events		
--887.0316	-550.4349		Volunteer Services/Resources->Resume Coach Volunteers		
--901.3125	-406.58673		Volunteer Services/Resources->Resume Coach Volunteers		
--887.0316	-550.4349		Volunteer Services/Resources->Reading Troubador		
--950.8159	-433.40643		Volunteer Services/Resources->Reading Troubador		
--887.0316	-550.4349		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
--1001.50183	-462.64502		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
--887.0316	-550.4349		Volunteer Services/Resources->High School Tutor Service		
--847.31396	-376.70197		Volunteer Services/Resources->High School Tutor Service		
--887.0316	-550.4349		Volunteer Services/Resources->English Conversation Group		
--792.8589	-345.4163		Volunteer Services/Resources->English Conversation Group		
--887.0316	-550.4349		Volunteer Services/Resources->Citizenship Exams - Volunteer Services		
--1051.7612	-493.49664		Volunteer Services/Resources->Citizenship Exams - Volunteer Services		
--887.0316	-550.4349		Volunteer Services/Resources->Adult Services		
-1.3889668	5.1521378		Volunteer Services/Resources->Adult Services		
--887.0316	-550.4349		Volunteer Services/Resources->1st 5 Years Assistants to Childrens Librarians		
--1099.4983	-526.1404		Volunteer Services/Resources->1st 5 Years Assistants to Childrens Librarians		
--887.75824	-12.992295		Virtual Citizenship Classes->Immigrant Services		
--866.27466	95.68205		Virtual Citizenship Classes->Immigrant Services		
--1021.00244	-301.48795		Virtual Citizenship Classes->Alex Kennedy		
--887.75824	-12.992295		Virtual Citizenship Classes->Alex Kennedy		
+-777.5804,	-636.7517,		Welcome Ambassadors (Central)->Volunteer Services/Resources		
+-887.0316,	-550.4349,		Welcome Ambassadors (Central)->Volunteer Services/Resources		
+-724.1888,	-677.6622,		Welcome Ambassadors (Central)->LaCresha Neal		
+-777.5804,	-636.7517,		Welcome Ambassadors (Central)->LaCresha Neal		
+-777.5804,	-636.7517,		Volunteer Services/Resources->Welcome Ambassadors (Central)		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Welcome Ambassadors (Central)		
+-880.305,	  -723.0069,		Volunteer Services/Resources->Special Events		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Special Events		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Resume Coach Volunteers		
+-901.3125,	-406.58673,		Volunteer Services/Resources->Resume Coach Volunteers		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Reading Troubador		
+-950.8159,	-433.40643,		Volunteer Services/Resources->Reading Troubador		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
+-1001.50183,	-462.64502,		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
+-887.0316,	-550.4349,		Volunteer Services/Resources->High School Tutor Service		
+-847.31396,	-376.70197,		Volunteer Services/Resources->High School Tutor Service		
+-887.0316,	-550.4349,		Volunteer Services/Resources->English Conversation Group		
+-792.8589,	  -345.4163		Volunteer Services/Resources->English Conversation Group		
+-887.0316,	  -550.4349		Volunteer Services/Resources->Citizenship Exams - Volunteer Services		
+-1051.7612,	-493.49664		Volunteer Services/Resources->Citizenship Exams - Volunteer Services		
+-887.0316,	  -550.4349		Volunteer Services/Resources->Adult Services		
+1.3889668,	  5.1521378		Volunteer Services/Resources->Adult Services		
+-887.0316,	  -550.4349		Volunteer Services/Resources->1st 5 Years Assistants to Childrens Librarians		
+-1099.4983,	-526.1404		Volunteer Services/Resources->1st 5 Years Assistants to Childrens Librarians		
+-887.75824,	-12.992295		Virtual Citizenship Classes->Immigrant Services		
+-866.27466,	95.68205		Virtual Citizenship Classes->Immigrant Services		
+-1021.00244,	-301.48795		Virtual Citizenship Classes->Alex Kennedy		
+-887.75824,	-12.992295		Virtual Citizenship Classes->Alex Kennedy		
 1011.3489	-1056.8555		Varies->Workshops		
 951.5377	-997.7682		Varies->Workshops		
 -46.102028	845.25525		Techmobile->WiFi		
