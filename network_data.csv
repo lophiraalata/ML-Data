@@ -9,18 +9,18 @@ Y,	X,	Department labels,	Direction,	Source attribute,	Source label
 -273.927,	  1234.5723,		WiFi->Techmobile, , ,		
 155.5011,	  642.683,		  WiFi->Bookmobile, , ,		
 -46.102028,	845.25525,		WiFi->Bookmobile, , ,		
--777.5804,	-636.7517,		Welcome Ambassadors (Central)->Volunteer Services/Resources		
--887.0316,	-550.4349,		Welcome Ambassadors (Central)->Volunteer Services/Resources		
--724.1888,	-677.6622,		Welcome Ambassadors (Central)->LaCresha Neal		
--777.5804,	-636.7517,		Welcome Ambassadors (Central)->LaCresha Neal		
--777.5804,	-636.7517,		Volunteer Services/Resources->Welcome Ambassadors (Central)		
--887.0316,	-550.4349,		Volunteer Services/Resources->Welcome Ambassadors (Central)		
--880.305,	  -723.0069,		Volunteer Services/Resources->Special Events		
--887.0316,	-550.4349,		Volunteer Services/Resources->Special Events		
--887.0316,	-550.4349,		Volunteer Services/Resources->Resume Coach Volunteers		
--901.3125,	-406.58673,		Volunteer Services/Resources->Resume Coach Volunteers		
--887.0316,	-550.4349,		Volunteer Services/Resources->Reading Troubador		
--950.8159,	-433.40643,		Volunteer Services/Resources->Reading Troubador		
+-777.5804,	-636.7517,		Welcome Ambassadors (Central)->Volunteer Services/Resources, , ,		
+-887.0316,	-550.4349,		Welcome Ambassadors (Central)->Volunteer Services/Resources, , ,	
+-724.1888,	-677.6622,		Welcome Ambassadors (Central)->LaCresha Neal, , ,		
+-777.5804,	-636.7517,		Welcome Ambassadors (Central)->LaCresha Neal, , ,		
+-777.5804,	-636.7517,		Volunteer Services/Resources->Welcome Ambassadors (Central), , ,		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Welcome Ambassadors (Central), , ,		
+-880.305,	  -723.0069,		Volunteer Services/Resources->Special Events, , ,		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Special Events, , ,		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Resume Coach Volunteers, , ,		
+-901.3125,	-406.58673,		Volunteer Services/Resources->Resume Coach Volunteers, , , 		
+-887.0316,	-550.4349,		Volunteer Services/Resources->Reading Troubador, , , 		
+-950.8159,	-433.40643,		Volunteer Services/Resources->Reading Troubador, , ,		
 -887.0316,	-550.4349,		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
 -1001.50183,	-462.64502,		Volunteer Services/Resources->Outpatient Centers/Shelters/Hospitals		
 -887.0316,	-550.4349,		Volunteer Services/Resources->High School Tutor Service		
