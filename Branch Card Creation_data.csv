@@ -1,66 +1,66 @@
-Branch	Rank of # new cards	# new cards
-Center For Brooklyn History	65	6
-Annex	64	56
-Brower Park	63	97
-Gerritsen Beach	62	299
-East Flatbush	61	313
-Jamaica Bay	60	331
-Red Hook	59	405
-Homecrest	58	436
-Bookmobile	57	440
-Paerdegat	56	463
-Sheepshead Bay	55	503
-Arlington	54	511
-Spring Creek	53	523
-Ryder	52	534
-Kidsmobile	51	536
-Dyker	50	552
-Ulmer Park	49	572
-Flatlands	48	609
-Gravesend	47	629
-Kings Bay	46	675
-Stone Avenue	45	696
-Mapleton	44	698
-Clarendon	43	699
-Borough Park	42	699
-Canarsie	41	777
-Saratoga	40	779
-Fort Hamilton	39	807
-Mill Basin	38	841
-Midwood	37	890
-Brownsville	36	903
-Brighton Beach	35	939
-Bushwick	34	971
-Highlawn	33	995
-Cypress Hills	32	1020
-New Lots	31	1054
-Marcy	30	1127
-Rugby	29	1147
-Coney Island	28	1160
-New Utrecht	27	1199
-Walt Whitman	26	1204
-Adams Street	25	1272
-Brooklyn Heights	24	1314
-Kings Highway	23	1331
-Bedford	22	1339
-Kensington	21	1382
-McKinley Park	20	1474
-Eastern Parkway	19	1496
-Sunset Park	18	1522
-Windsor Terrace	17	1536
-Bay Ridge	16	1606
-Cortelyou	15	1631
-Leonard	14	1665
-Williamsburgh	13	1691
-Crown Heights	12	1728
-Washington Irving	11	1968
-Macon	10	2039
-Carroll Gardens	9	2089
-Flatbush	8	2115
-Pacific	7	2306
-Clinton Hill	6	2379
-DeKalb	5	2742
-Park Slope	4	2753
-Greenpoint	3	5426
-Central Library	2	11759
-No Branch	1	59783
+Branch,	Rank of # new cards,	# new cards
+Center For Brooklyn History,	65,	6
+Annex,	64,	56
+Brower Park,	63,	97
+Gerritsen Beach,	62,	299
+East Flatbush,	61,	313
+Jamaica Bay,	60,	331
+Red Hook,	59,	405
+Homecrest,	58,	436
+Bookmobile,	57,	440
+Paerdegat,	56,	463
+Sheepshead Bay,	55,	503
+Arlington,	54,	511
+Spring Creek,	53,	523
+Ryder,	52,	534
+Kidsmobile,	51,	536
+Dyker,	50,	552
+Ulmer Park,	49,	572
+Flatlands,	48,	609
+Gravesend,	47,	629
+Kings Bay,	46,	675
+Stone Avenue,	45,	696
+Mapleton,	44,	698
+Clarendon,	43,	699
+Borough Park,	42,	699
+Canarsie,	41,	777
+Saratoga,	40,	779
+Fort Hamilton,	39,	807
+Mill Basin,	38,	841
+Midwood	37,	890
+Brownsville,	36,	903
+Brighton Beach,	35,	939
+Bushwick,	34,	971
+Highlawn,	33,	995
+Cypress Hills,	32,	1020
+New Lots,	31,	1054
+Marcy,	30,	1127
+Rugby,	29,	1147
+Coney Island,	28,	1160
+New Utrecht,	27,	1199
+Walt Whitman,	26,	1204
+Adams Street,	25,	1272
+Brooklyn Heights,	24,	1314
+Kings Highway,	23,	1331
+Bedford,	22,	1339
+Kensington,	21,	1382
+McKinley Park,	20,	1474
+Eastern Parkway,	19,	1496
+Sunset Park,	18,	1522
+Windsor Terrace,	17,	1536
+Bay Ridge,	16,	1606
+Cortelyou,	15,	1631
+Leonard,	14,	1665
+Williamsburgh,	13,	1691
+Crown Heights,	12,	1728
+Washington Irving, 11,	1968
+Macon,	10,	2039
+Carroll Gardens,	9,	2089
+Flatbush,	8,	2115
+Pacific,	7,	2306
+Clinton Hill,	6,	2379
+DeKalb,	5,	2742
+Park Slope,	4,	2753
+Greenpoint,	3,	5426
+Central Library,	2,	11759
+No Branch,	1,	59783
